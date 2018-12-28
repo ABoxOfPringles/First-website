@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The lord of all things esoteric</title>
+</head>
+<body>
+    <div id=Header>
+        <h1><strong>Hallo! Was Geht?</strong></h1>
+          <p>I am Nevermore, some dumb 21 year old college student near Portland, Oregon. You may have also seen me<br> around some nerdy corners of the internet as ABoxOfPringles, Quoththeserver404, Win4ce or Pokefrazer.</p>
+    </div>
+    <div id=bulletpoints>
+      <h2>Who am I: a summary</h2>
+        <ul>
+          <li>Ashkenazi</li>
+          <li>Ancom</li>
+          <li>Fighting Gamer</li>
+          <li>Raging Homosexual</li>
+        </ul>
+    </div>
+    <div id=tru>
+<!-- Literally just a summary of me, don't elaborate too much you narcisstic dummy -->
+        <h2>Honestly</h2>
+          <p>HTML is hard. I mean, really <em>really</em> hard. It's probably second nature for people <br> once they got the basic shit down, but I'm at drinking age and know jack shit. <br> that's saying tons. I'm really late to programming in general. If you want to know more, <a href=file:///home/nevermore/Dokumentoj/Programs/HTML/Personal/loser.html>Here ya go!</a><br> I'll mostly be using this site to experiment with little things as I learn more about coding in general<br> (<i>Yes, I'm implying HTML is coding in the first place<i>) and as a result it'll likely change<br> in format many times. HTML is the skeleton of a website, after all.</ref><p>
+    </div>
+    <div id="Where to find me">
+      <h6>
+        <a href=file:///home/nevermore/Dokumentoj/Programs/HTML/Personal/contact>Contact</a>
+      </h6>
+        </a>
+    </div>
+
+</body>
+</html>
+
